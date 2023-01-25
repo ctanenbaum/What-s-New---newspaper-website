@@ -1,0 +1,35 @@
+form {
+    font-size: large;
+    padding:  2em 2em;
+    color:#2E5A88;
+
+}
+
+h1 {
+    color: gray;
+}
+
+label {
+    float: left;
+    width: 11em;
+}
+input {
+
+    margin-left: 1em;
+    margin-bottom: .5em;
+}
+
+span {
+    color: red;
+
+}
+
+#join,
+#reset {
+    width: 7.5em;
+}
+#a {
+    font-size: large;
+    padding: 2em 2em;
+    color: #2E5A88;
+}
